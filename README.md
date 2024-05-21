@@ -1,8 +1,8 @@
-# EAFC 24 Player Career Mode Excel Workbook
+# EA SPORTS™ FC 24 Player Career Mode Excel Workbook
 
 ## Introduction
 
-Welcome to the EAFC Player Career Mode Excel Workbook! This spreadsheet is designed to help EAFC gamers track and analyze player statistics and career progress. Whether you're an EAFC enthusiast or a content creator, this tool can provide valuable insights into your player's journey.
+Welcome to the EA SPORTS™ FC 24 Player Career Mode Excel Workbook! This spreadsheet is designed to help gamers track and analyze player statistics and career progress. Whether you're an FC 24 enthusiast or a content creator, this tool can provide valuable insights into your player's journey.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the EAFC Player Career Mode Excel Workbook! This spreadsheet is desig
 
 ### Prerequisites
 
-To use this Excel workbook effectively, you should have Microsoft Excel or a compatible spreadsheet software installed on your computer.
+To use this Excel workbook effectively, you should have Microsoft Excel installed on your computer.
 
 ### Installation
 
@@ -56,8 +56,8 @@ If you encounter any issues or have questions about using the FIFA Player Career
 
 ## Contributing
 
-We welcome contributions to improve this tool. If you have suggestions, bug fixes, or enhancements, please open an issue or submit a pull request on our GitHub repository [insert_github_link_here].
+We welcome contributions to improve this tool. If you have suggestions, bug fixes, or enhancements, please open an issue or submit a pull request on our GitHub repository [ndubizu19](https://github.com/ndubizu19).
 
 ## License
 
-This FIFA Player Career Mode Excel Workbook is licensed under the [insert_license_name_here] License. See the [LICENSE](LICENSE) file for details.
+This EA SPORTS™ FC 24 Player Career Mode Excel Workbook is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
