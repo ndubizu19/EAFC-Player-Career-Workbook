@@ -22,7 +22,7 @@ To use this Excel workbook effectively, you should have Microsoft Excel installe
 
 ### Installation
 
-1. Download the workbook file (`FIFA_Player_Career_Mode_Workbook.xlsx`) from [here](PlayerCareer.xlsx).
+1. Download the workbook file (`FIFA_Player_Career_Mode_Workbook.xlsx`) from [here](src/PlayerCareer.xlsx).
 
 2. Make a copy of the file to preserve the original as a reference.
 
