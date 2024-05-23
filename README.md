@@ -22,7 +22,7 @@ To use this Excel workbook effectively, you should have Microsoft Excel installe
 
 ### Installation
 
-1. Download the workbook file (`FIFA_Player_Career_Mode_Workbook.xlsx`) from [here](insert_link_here).
+1. Download the workbook file (`FIFA_Player_Career_Mode_Workbook.xlsx`) from [here](PlayerCareer.xlsx).
 
 2. Make a copy of the file to preserve the original as a reference.
 
@@ -52,7 +52,7 @@ Feel free to customize the workbook to suit your preferences. You can add additi
 
 ## Support
 
-If you encounter any issues or have questions about using the FIFA Player Career Mode Excel Workbook, please don't hesitate to reach out for assistance. You can contact us at [insert_email_here].
+If you encounter any issues or have questions about using the FIFA Player Career Mode Excel Workbook, please don't hesitate to reach out for assistance. You can contact us at [ndu52000@gmail.com](ndu52000@gmail.com).
 
 ## Contributing
 
